@@ -1,4 +1,4 @@
-##Welcome to eBits!🚀
+## Welcome to eBits!🚀
 
 At eBits, we're more than just an electronics retailer; we're a hub of innovation, design, and technology, dedicated to bringing you the best in electronics and tech gadgets. 
 Rooted deeply in the rich tapestry of technology, our mission is to provide top-tier electronics with a user-centric approach, ensuring that every product we offer isn't just a transaction but a stepping stone towards a more technologically integrated world.
@@ -9,7 +9,7 @@ Our website, eBits.dk, stands as a testament to our commitment to these values, 
 - 🔍 Quality First: Curated selections to meet your high standards.
 - 😊 Customer Satisfaction: Exceptional service, unparalleled support.
 
-####🛠 The eBits Team
+#### 🛠 The eBits Team
 Our team's expertise and passion for technology drive eBits' success. Meet our in-house talent:
 - 🎨 Web Designers
 Crafting seamless, aesthetic online experiences.
@@ -20,7 +20,7 @@ Versatile development across all fronts.
 - 🎓 CEO, Nikolaj - Skilled Electrical Engineer
   
 Visionary leadership, guiding strategic and innovative excellence.
-####📚 Technology Stack
+#### 📚 Technology Stack
 At eBits, we leverage a diverse set of technologies to bring our visions to life:
 - 🛒 Shopify - Powering our e-commerce platform.
 - 🤖 OpenAI - Integrating AI for smarter solutions.
@@ -30,28 +30,14 @@ At eBits, we leverage a diverse set of technologies to bring our visions to life
 - 📱 Flutter - Crafting cross-platform mobile applications.
 - ⚛️ React.js - Interactive UIs for web apps.
 
-####🌍 Community & Collaboration
+#### 🌍 Community & Collaboration
 🤝 Open for Collaboration: We love to explore new horizons with innovative minds.
 💡 Tech Talks & Workshops: Join us in fostering a culture of learning and innovation.
 🔄 Contributing to Tech Community: Our GitHub is a hub for sharing and collaboration.
 
-####📢 Stay Connected
+#### 📢 Stay Connected
 🔔 Follow us on GitHub for the latest updates on our projects and collaborations.
 ✉️ For inquiries or collaborations, reach out at contact@ebits.dk.
 
-##Join us on our journey at eBits, where innovation meets excellence. 🌟
+## Join us on our journey at eBits, where innovation meets excellence. 🌟
 
-
-
-- 👋 Hi, I’m @ebitsdk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-ebitsdk/ebitsdk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
